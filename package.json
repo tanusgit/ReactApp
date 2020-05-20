@@ -3,11 +3,6 @@
   "version": "1.0.0",
   "description": "Creating jason file",
   "main": "index.html",
-  "scripts": {
-    "start": "npm run lite",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "lite": "lite-server"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tanusgit/reactapp.git"
@@ -20,12 +15,7 @@
   "homepage": "https://github.com/tanusgit/reactapp#readme",
   "devDependencies": {
     "lite-server": "^2.5.4"
-<<<<<<< HEAD
-=======
-=======
-  "name": "jobpost",
-  "version": "0.1.0",
-  "private": true,
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
